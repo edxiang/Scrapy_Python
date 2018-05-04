@@ -5,18 +5,19 @@ from bs4 import BeautifulSoup as bs
 import scrapy.Reg as Reg
 import xml.etree.ElementTree as ET
 
+# 对于 xml 的标签而言，先过滤掉特殊字符
 r1 = re.compile(r'/')
 r2 = re.compile(r'\s')
 r3 = re.compile(r'[\W]')
 r4 = re.compile(r'\s{2,}')
 r5 = re.compile(r'^[\d]+')
 
-
+# 添加子节点
 def subElement(root, tag, text):
     ele = ET.SubElement(root, tag)
     ele.text = text
 
-
+# 头部信息，没有这一部分 requests 获取不到网页
 headers = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate',
@@ -29,12 +30,12 @@ headers = {
     'Upgrade-Insecure-Request': '1',
     'User_Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'
 }
-
+# 查询链接
 searchUrl = "http://detail.zol.com.cn/index.php?c=SearchList&kword="
-page = "&page="
-baseUrl = 'http://detail.zol.com.cn'
-keyWord = 'AMDCPU'
-index = 38
+page = "&page="  # 页数
+baseUrl = 'http://detail.zol.com.cn'  # 基本的 url
+keyWord = 'AMDCPU'  # 关键字
+index = 38  # 总的页数
 
 root = ET.Element(keyWord)
 

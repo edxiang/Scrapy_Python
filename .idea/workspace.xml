@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="089f40ad-0711-47d6-a4f4-6de4f3bba6c6" name="Default" comment="" />
+    <list default="true" id="089f40ad-0711-47d6-a4f4-6de4f3bba6c6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ShowHtml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimulateLogin/DoSth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimulateLogin/format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimulateLogin/testClick.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Splinter/First1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Splinter/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Splinter/first.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/picture/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/picture/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhihu/WithHead.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zhihu/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy/testReg.py" afterPath="$PROJECT_DIR$/scrapy/testReg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zol/GetURL.py" afterPath="$PROJECT_DIR$/zol/GetURL.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,327 +26,121 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Content.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/douban/Content.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="57" />
-                  <folding>
-                    <element signature="e#17#32#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GetContent.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zol/GetContent.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-                  <folding>
-                    <element signature="e#24#39#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Information.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/douban/Information.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="214">
-                  <caret line="59" column="45" lean-forward="false" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GetURL.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/zol/GetURL.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#24#39#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AMDCPU.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zol/folder/AMDCPU.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="66">
-                  <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-                  <folding>
-                    <element signature="e#394694#394699#0" expanded="true" />
-                    <element signature="e#394702#394707#0" expanded="true" />
-                    <element signature="e#397800#397805#0" expanded="true" />
-                    <element signature="e#397808#397813#0" expanded="true" />
-                    <element signature="e#399728#399733#0" expanded="true" />
-                    <element signature="e#399736#399741#0" expanded="true" />
-                    <element signature="e#402319#402324#0" expanded="true" />
-                    <element signature="e#402327#402332#0" expanded="true" />
-                    <element signature="e#405403#405408#0" expanded="true" />
-                    <element signature="e#405411#405416#0" expanded="true" />
-                    <element signature="e#407629#407634#0" expanded="true" />
-                    <element signature="e#407637#407642#0" expanded="true" />
-                    <element signature="e#410745#410750#0" expanded="true" />
-                    <element signature="e#410753#410758#0" expanded="true" />
-                    <element signature="e#413858#413863#0" expanded="true" />
-                    <element signature="e#413866#413871#0" expanded="true" />
-                    <element signature="e#416209#416214#0" expanded="true" />
-                    <element signature="e#416217#416222#0" expanded="true" />
-                    <element signature="e#418625#418630#0" expanded="true" />
-                    <element signature="e#418633#418638#0" expanded="true" />
-                    <element signature="e#421655#421660#0" expanded="true" />
-                    <element signature="e#421663#421668#0" expanded="true" />
-                    <element signature="e#422642#422647#0" expanded="true" />
-                    <element signature="e#422650#422655#0" expanded="true" />
-                    <element signature="e#425814#425819#0" expanded="true" />
-                    <element signature="e#425822#425827#0" expanded="true" />
-                    <element signature="e#428387#428392#0" expanded="true" />
-                    <element signature="e#428395#428400#0" expanded="true" />
-                    <element signature="e#431551#431556#0" expanded="true" />
-                    <element signature="e#431559#431564#0" expanded="true" />
-                    <element signature="e#434691#434696#0" expanded="true" />
-                    <element signature="e#434699#434704#0" expanded="true" />
-                    <element signature="e#437662#437667#0" expanded="true" />
-                    <element signature="e#437670#437675#0" expanded="true" />
-                    <element signature="e#440353#440358#0" expanded="true" />
-                    <element signature="e#440361#440366#0" expanded="true" />
-                    <element signature="e#442808#442813#0" expanded="true" />
-                    <element signature="e#442816#442821#0" expanded="true" />
-                    <element signature="e#443797#443802#0" expanded="true" />
-                    <element signature="e#443805#443810#0" expanded="true" />
-                    <element signature="e#449371#449376#0" expanded="true" />
-                    <element signature="e#449379#449384#0" expanded="true" />
-                    <element signature="e#451134#451139#0" expanded="true" />
-                    <element signature="e#451142#451147#0" expanded="true" />
-                    <element signature="e#454070#454075#0" expanded="true" />
-                    <element signature="e#454078#454083#0" expanded="true" />
-                    <element signature="e#457117#457122#0" expanded="true" />
-                    <element signature="e#457125#457130#0" expanded="true" />
-                    <element signature="e#460289#460294#0" expanded="true" />
-                    <element signature="e#460297#460302#0" expanded="true" />
-                    <element signature="e#463037#463042#0" expanded="true" />
-                    <element signature="e#463045#463050#0" expanded="true" />
-                    <element signature="e#465529#465534#0" expanded="true" />
-                    <element signature="e#465537#465542#0" expanded="true" />
-                    <element signature="e#468058#468063#0" expanded="true" />
-                    <element signature="e#468066#468071#0" expanded="true" />
-                    <element signature="e#473335#473340#0" expanded="true" />
-                    <element signature="e#473343#473348#0" expanded="true" />
-                    <element signature="e#475858#475863#0" expanded="true" />
-                    <element signature="e#475866#475871#0" expanded="true" />
-                    <element signature="e#480623#480628#0" expanded="true" />
-                    <element signature="e#480631#480636#0" expanded="true" />
-                    <element signature="e#483246#483251#0" expanded="true" />
-                    <element signature="e#483254#483259#0" expanded="true" />
-                    <element signature="e#484875#484880#0" expanded="true" />
-                    <element signature="e#484883#484888#0" expanded="true" />
-                    <element signature="e#487280#487285#0" expanded="true" />
-                    <element signature="e#487288#487293#0" expanded="true" />
-                    <element signature="e#492233#492238#0" expanded="true" />
-                    <element signature="e#492241#492246#0" expanded="true" />
-                    <element signature="e#497969#497974#0" expanded="true" />
-                    <element signature="e#497977#497982#0" expanded="true" />
-                    <element signature="e#504235#504240#0" expanded="true" />
-                    <element signature="e#504243#504248#0" expanded="true" />
-                    <element signature="e#507544#507549#0" expanded="true" />
-                    <element signature="e#507552#507557#0" expanded="true" />
-                    <element signature="e#509440#509445#0" expanded="true" />
-                    <element signature="e#509448#509453#0" expanded="true" />
-                    <element signature="e#511419#511424#0" expanded="true" />
-                    <element signature="e#511427#511432#0" expanded="true" />
-                    <element signature="e#519583#519588#0" expanded="true" />
-                    <element signature="e#519591#519596#0" expanded="true" />
-                    <element signature="e#523298#523303#0" expanded="true" />
-                    <element signature="e#523306#523311#0" expanded="true" />
-                    <element signature="e#525456#525461#0" expanded="true" />
-                    <element signature="e#525464#525469#0" expanded="true" />
-                    <element signature="e#531042#531047#0" expanded="true" />
-                    <element signature="e#531050#531055#0" expanded="true" />
-                    <element signature="e#533090#533095#0" expanded="true" />
-                    <element signature="e#533098#533103#0" expanded="true" />
-                    <element signature="e#550445#550450#0" expanded="true" />
-                    <element signature="e#550536#550541#0" expanded="true" />
-                    <element signature="e#550548#550553#0" expanded="true" />
-                    <element signature="e#550556#550561#0" expanded="true" />
-                    <element signature="e#550564#550569#0" expanded="true" />
-                    <element signature="e#550574#550579#0" expanded="true" />
-                    <element signature="e#557845#557850#0" expanded="true" />
-                    <element signature="e#557853#557858#0" expanded="true" />
-                    <element signature="e#559785#559790#0" expanded="true" />
-                    <element signature="e#559793#559798#0" expanded="true" />
-                    <element signature="e#561946#561951#0" expanded="true" />
-                    <element signature="e#561954#561959#0" expanded="true" />
-                    <element signature="e#571551#571556#0" expanded="true" />
-                    <element signature="e#571559#571564#0" expanded="true" />
-                    <element signature="e#572638#572643#0" expanded="true" />
-                    <element signature="e#575568#575573#0" expanded="true" />
-                    <element signature="e#575576#575581#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="canon.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zol/folder/canon.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
-                  <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-                  <folding>
-                    <element signature="e#5399#5404#0" expanded="true" />
-                    <element signature="e#5407#5412#0" expanded="true" />
-                    <element signature="n#佳能_EOS_M6-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#9787#9792#0" expanded="true" />
-                    <element signature="e#9795#9800#0" expanded="true" />
-                    <element signature="n#佳能_6D_Mark_II-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#15086#15091#0" expanded="true" />
-                    <element signature="e#15094#15099#0" expanded="true" />
-                    <element signature="n#佳能_6D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#24806#24811#0" expanded="true" />
-                    <element signature="e#24814#24819#0" expanded="true" />
-                    <element signature="n#佳能_800D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#29803#29808#0" expanded="true" />
-                    <element signature="e#29811#29816#0" expanded="true" />
-                    <element signature="n#佳能_5D_Mark_III-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#37163#37168#0" expanded="true" />
-                    <element signature="e#37171#37176#0" expanded="true" />
-                    <element signature="n#佳能_80D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#43502#43507#0" expanded="true" />
-                    <element signature="e#43510#43515#0" expanded="true" />
-                    <element signature="n#佳能_70D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#54616#54621#0" expanded="true" />
-                    <element signature="e#54624#54629#0" expanded="true" />
-                    <element signature="n#佳能_G9_X_Mark_II#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#57899#57904#0" expanded="true" />
-                    <element signature="e#57907#57912#0" expanded="true" />
-                    <element signature="n#佳能_60D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#68241#68246#0" expanded="true" />
-                    <element signature="e#68249#68254#0" expanded="true" />
-                    <element signature="n#佳能_700D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#76914#76919#0" expanded="true" />
-                    <element signature="e#76922#76927#0" expanded="true" />
-                    <element signature="n#佳能_EF_24-70mm_f-2.8L_II_USM#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#77922#77927#0" expanded="true" />
-                    <element signature="e#77930#77935#0" expanded="true" />
-                    <element signature="n#佳能_EF_70-200mm_f-4L_IS_USM-小小白IS-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#79593#79598#0" expanded="true" />
-                    <element signature="e#79601#79606#0" expanded="true" />
-                    <element signature="n#佳能_600D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#88995#89000#0" expanded="true" />
-                    <element signature="e#89003#89008#0" expanded="true" />
-                    <element signature="n#佳能_800D套机-18-55mm_IS_STM-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#94166#94171#0" expanded="true" />
-                    <element signature="e#94174#94179#0" expanded="true" />
-                    <element signature="n#佳能_EF_50mm_f-1.8_STM#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#95148#95153#0" expanded="true" />
-                    <element signature="e#95156#95161#0" expanded="true" />
-                    <element signature="n#佳能_EOS_77D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#100225#100230#0" expanded="true" />
-                    <element signature="e#100233#100238#0" expanded="true" />
-                    <element signature="n#佳能_7D_Mark_II-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#107386#107391#0" expanded="true" />
-                    <element signature="e#107394#107399#0" expanded="true" />
-                    <element signature="n#佳能_EF_70-200mm_f-2.8L_IS_II_USM#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#108983#108988#0" expanded="true" />
-                    <element signature="e#108991#108996#0" expanded="true" />
-                    <element signature="n#佳能_G7_X_Mark_II#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#112833#112838#0" expanded="true" />
-                    <element signature="e#112841#112846#0" expanded="true" />
-                    <element signature="n#佳能_EOS-1D_X_Mark_II-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#119003#119008#0" expanded="true" />
-                    <element signature="e#119011#119016#0" expanded="true" />
-                    <element signature="n#佳能_EOS_M5-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#124415#124420#0" expanded="true" />
-                    <element signature="e#124423#124428#0" expanded="true" />
-                    <element signature="n#佳能_EOS_M6套机-15-45mm_IS_STM-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#128976#128981#0" expanded="true" />
-                    <element signature="e#128984#128989#0" expanded="true" />
-                    <element signature="n#佳能_80D套机-EF-S_18-135mm_IS_USM-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#135639#135644#0" expanded="true" />
-                    <element signature="e#135647#135652#0" expanded="true" />
-                    <element signature="n#佳能_750D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-                    <element signature="e#141722#141727#0" expanded="true" />
-                    <element signature="e#141730#141735#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="GetContent.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zol/GetContent.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-                  <folding>
-                    <element signature="e#24#39#0" expanded="true" />
-                    <marker date="1510218044609" expanded="true" signature="2421:2534" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="GetParameter.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zol/GetParameter.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="294">
-                  <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#24#39#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TestXML.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/zol/TestXML.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#24#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ParseXML.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/zol/ParseXML.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ShowHtml.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShowHtml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/note.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note1.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/note1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseXML.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/ParseXML.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canon.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/folder/canon.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetContent.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zol/GetContent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestXML.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/TestXML.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whatever.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zol/whatever.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Proxy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proxy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>urllib</find>
-      <find>class=&quot;info</find>
-      <find>&lt;span property=&quot;v:item</find>
-      <find>&lt;div id=&quot;interest_sect1&quot;&gt;</find>
-      <find>&lt;br/&gt;</find>
       <find>target</find>
       <find>v:average</find>
       <find>edxiao</find>
@@ -352,11 +162,23 @@
       <find>no detail page</find>
       <find>class=&quot;page&quot;</find>
       <find>class=&quot;next&quot;</find>
+      <find>class=&quot;pngblock</find>
+      <find>class=&quot;nextpage&quot;</find>
+      <find>class=&quot;png_sl</find>
+      <find>Button VoteButton VoteButton--up</find>
+      <find>VoteButton--up</find>
+      <find>TopstoryItem--experimentExpand</find>
+      <find>inf</find>
+      <find>阿飞</find>
+      <find>搜索</find>
     </findStrings>
     <replaceStrings>
       <replace>urllib.request</replace>
       <replace>et</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -372,7 +194,6 @@
         <option value="$PROJECT_DIR$/scrapy/GetFundamentalInfo.py" />
         <option value="$PROJECT_DIR$/scrapy/function.py" />
         <option value="$PROJECT_DIR$/scrapy/testFunction.py" />
-        <option value="$PROJECT_DIR$/scrapy/testReg.py" />
         <option value="$PROJECT_DIR$/scrapy/GetName.py" />
         <option value="$PROJECT_DIR$/scrapy/GetHref.py" />
         <option value="$PROJECT_DIR$/SimulateLogin/FItst.py" />
@@ -388,7 +209,6 @@
         <option value="$PROJECT_DIR$/douban/Details.py" />
         <option value="$PROJECT_DIR$/scrapy/Reg.py" />
         <option value="$PROJECT_DIR$/Proxy.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/douban/Information.py" />
         <option value="$PROJECT_DIR$/douban/merge.py" />
         <option value="$PROJECT_DIR$/zol/test.py" />
@@ -401,6 +221,18 @@
         <option value="$PROJECT_DIR$/zol/ParseXML.py" />
         <option value="$PROJECT_DIR$/zol/GetContent.py" />
         <option value="$PROJECT_DIR$/zol/GetURL.py" />
+        <option value="$PROJECT_DIR$/zhihu/WithHead.py" />
+        <option value="$PROJECT_DIR$/picture/test.py" />
+        <option value="$PROJECT_DIR$/SimulateLogin/testClick.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ShowHtml.py" />
+        <option value="$PROJECT_DIR$/Splinter/geckodriver.log" />
+        <option value="$PROJECT_DIR$/Splinter/First1.py" />
+        <option value="$PROJECT_DIR$/Splinter/first.py" />
+        <option value="$PROJECT_DIR$/SimulateLogin/format.html" />
+        <option value="$PROJECT_DIR$/SimulateLogin/DoSth.py" />
+        <option value="$PROJECT_DIR$/SimulateLogin/WebDriver.py" />
+        <option value="$PROJECT_DIR$/scrapy/testReg.py" />
       </list>
     </option>
   </component>
@@ -409,6 +241,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -425,8 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -437,22 +270,26 @@
             <path>
               <item name="LearnPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnPy" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="zol" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnPy" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnPy" type="462c0819:PsiDirectoryNode" />
               <item name="zol" type="462c0819:PsiDirectoryNode" />
+              <item name="folder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Python35/python.exe" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="E:/you-get" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -471,106 +308,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GetURL">
-    <configuration name="GetContent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GetFundamentalInfo">
+    <configuration name="FileTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zol/GetContent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy/FileTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="GetParameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GetFundamentalInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zol/GetParameter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy/GetFundamentalInfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="GetURL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ShowHtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zol/GetURL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShowHtml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ParseXML" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zol/ParseXML.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="TestXML" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testReg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zol/TestXML.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy/testReg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.GetContent" />
-      <item index="1" class="java.lang.String" itemvalue="Python.GetParameter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TestXML" />
-      <item index="3" class="java.lang.String" itemvalue="Python.GetURL" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ParseXML" />
+      <item index="0" class="java.lang.String" itemvalue="Python.FileTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ShowHtml" />
+      <item index="3" class="java.lang.String" itemvalue="Python.testReg" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GetFundamentalInfo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.GetURL" />
-        <item index="1" class="java.lang.String" itemvalue="Python.GetContent" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ParseXML" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TestXML" />
-        <item index="4" class="java.lang.String" itemvalue="Python.GetParameter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GetFundamentalInfo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testReg" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ShowHtml" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -592,21 +429,21 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31504065" sideWeight="0.5229167" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.49375" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31536114" sideWeight="0.5229167" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31504065" sideWeight="0.47708333" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31491137" sideWeight="0.47708333" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39939025" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39833158" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.49375" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -615,54 +452,195 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/douban/Information.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program Files/Python35/Lib/site-packages/requests-2.18.4-py3.5.egg/requests/sessions.py">
+    <entry file="file://$PROJECT_DIR$/scrapy/TopMovieFromDouban/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/TopMovieFromDouban/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zol/GetParameter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="702" column="0" lean-forward="false" selection-start-line="702" selection-start-column="0" selection-end-line="702" selection-end-column="0" />
+        <state relative-caret-position="183">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/text.txt" />
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/requests/models.py">
+    <entry file="file://$PROJECT_DIR$/zol/folder/AMDCPUtemp.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="377" column="0" lean-forward="true" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/requests/adapters.py">
+    <entry file="file://$PROJECT_DIR$/zol/folder/AMDCPU.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="509" column="36" lean-forward="false" selection-start-line="509" selection-start-column="36" selection-end-line="509" selection-end-column="36" />
+        <state relative-caret-position="-3564">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/codeProblem.py" />
-    <entry file="file://$PROJECT_DIR$/scrapy/qwe.py" />
-    <entry file="file://$PROJECT_DIR$/scrapy/testFunction.py" />
-    <entry file="file://$PROJECT_DIR$/scrapy/function.py" />
-    <entry file="file://$PROJECT_DIR$/scrapy/func.py">
+    <entry file="file://$PROJECT_DIR$/zol/GetURL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="176">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Splinter/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Splinter/First1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Splinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Splinter/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimulateLogin/First.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="1100">
+          <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/helloworld/131.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/SimulateLogin/format.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37290">
+          <caret line="1695" column="92" lean-forward="false" selection-start-line="1695" selection-start-column="62" selection-end-line="1695" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulateLogin/DoSth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulateLogin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulateLogin/WebDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulateLogin/testClick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/Details.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/Ttile&amp;Author.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/Information.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/ByUrllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy/helloworld/logo.jpg">
@@ -670,147 +648,194 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/helloworld/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/TopMovieFromDouban/top250_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1205">
+          <caret line="3224" column="0" lean-forward="true" selection-start-line="3224" selection-start-column="0" selection-end-line="3224" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/TopMovieFromDouban/top250.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/Content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="352">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/FileTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/FirstTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/GetHref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#25#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/GetName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pymysql/__init__.py">
+    <entry file="file://$PROJECT_DIR$/scrapy/TopMovieFromDouban.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="105" column="13" lean-forward="true" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        <state relative-caret-position="572">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/Reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy/testReg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/TopMovieFromDouban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/ByUrllib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#48#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy/GetFundamentalInfo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/link.py">
+    <entry file="file://$PROJECT_DIR$/zol/note.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/Ttile&amp;Author.py">
+    <entry file="file://$PROJECT_DIR$/zol/note1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="154">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/Details.py">
+    <entry file="file://$PROJECT_DIR$/zol/whatever.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/GetHref.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/topic_tech.txt" />
-    <entry file="file://$PROJECT_DIR$/scrapy/GetName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        <state relative-caret-position="154">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Proxy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/topoc_entertaiment" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/topoc_entertaiment.txt" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/topic_tech.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/Reg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="550">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/merge.py">
+    <entry file="file://$PROJECT_DIR$/ShowHtml.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/connectDB/MySQL.py">
+    <entry file="file://$PROJECT_DIR$/zol/TestXML.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="484">
+          <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/FileTest.py">
+    <entry file="file://$PROJECT_DIR$/zol/ParseXML.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/FirstTest.py">
+    <entry file="file://$PROJECT_DIR$/zol/folder/canon.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -823,364 +848,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/Content.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="57" />
-          <folding>
-            <element signature="e#17#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/first.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/Information.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="59" column="45" lean-forward="false" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/note.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/GetParameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/note1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="e#5399#5404#0" expanded="false" />
-            <element signature="e#5407#5412#0" expanded="false" />
-            <element signature="e#9787#9792#0" expanded="false" />
-            <element signature="e#9795#9800#0" expanded="false" />
-            <element signature="e#15086#15091#0" expanded="false" />
-            <element signature="e#15094#15099#0" expanded="false" />
-            <element signature="e#24806#24811#0" expanded="false" />
-            <element signature="e#24814#24819#0" expanded="false" />
-            <element signature="e#29803#29808#0" expanded="false" />
-            <element signature="e#29811#29816#0" expanded="false" />
-            <element signature="e#37163#37168#0" expanded="false" />
-            <element signature="e#37171#37176#0" expanded="false" />
-            <element signature="e#43502#43507#0" expanded="false" />
-            <element signature="e#43510#43515#0" expanded="false" />
-            <element signature="e#54616#54621#0" expanded="false" />
-            <element signature="e#54624#54629#0" expanded="false" />
-            <element signature="e#57899#57904#0" expanded="false" />
-            <element signature="e#57907#57912#0" expanded="false" />
-            <element signature="e#68241#68246#0" expanded="false" />
-            <element signature="e#68249#68254#0" expanded="false" />
-            <element signature="e#76914#76919#0" expanded="false" />
-            <element signature="e#76922#76927#0" expanded="false" />
-            <element signature="e#77922#77927#0" expanded="false" />
-            <element signature="e#77930#77935#0" expanded="false" />
-            <element signature="e#79593#79598#0" expanded="false" />
-            <element signature="e#79601#79606#0" expanded="false" />
-            <element signature="e#88995#89000#0" expanded="false" />
-            <element signature="e#89003#89008#0" expanded="false" />
-            <element signature="e#94166#94171#0" expanded="false" />
-            <element signature="e#94174#94179#0" expanded="false" />
-            <element signature="e#95148#95153#0" expanded="false" />
-            <element signature="e#95156#95161#0" expanded="false" />
-            <element signature="e#100225#100230#0" expanded="false" />
-            <element signature="e#100233#100238#0" expanded="false" />
-            <element signature="e#107386#107391#0" expanded="false" />
-            <element signature="e#107394#107399#0" expanded="false" />
-            <element signature="e#108983#108988#0" expanded="false" />
-            <element signature="e#108991#108996#0" expanded="false" />
-            <element signature="e#112833#112838#0" expanded="false" />
-            <element signature="e#112841#112846#0" expanded="false" />
-            <element signature="e#119003#119008#0" expanded="false" />
-            <element signature="e#119011#119016#0" expanded="false" />
-            <element signature="e#124415#124420#0" expanded="false" />
-            <element signature="e#124423#124428#0" expanded="false" />
-            <element signature="e#128976#128981#0" expanded="false" />
-            <element signature="e#128984#128989#0" expanded="false" />
-            <element signature="e#135639#135644#0" expanded="false" />
-            <element signature="e#135647#135652#0" expanded="false" />
-            <element signature="e#141722#141727#0" expanded="false" />
-            <element signature="e#141730#141735#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/folder/canon.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/TestXML.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/ParseXML.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/folder/canon.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#5399#5404#0" expanded="true" />
-            <element signature="e#5407#5412#0" expanded="true" />
-            <element signature="n#佳能_EOS_M6-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#9787#9792#0" expanded="true" />
-            <element signature="e#9795#9800#0" expanded="true" />
-            <element signature="n#佳能_6D_Mark_II-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#15086#15091#0" expanded="true" />
-            <element signature="e#15094#15099#0" expanded="true" />
-            <element signature="n#佳能_6D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#24806#24811#0" expanded="true" />
-            <element signature="e#24814#24819#0" expanded="true" />
-            <element signature="n#佳能_800D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#29803#29808#0" expanded="true" />
-            <element signature="e#29811#29816#0" expanded="true" />
-            <element signature="n#佳能_5D_Mark_III-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#37163#37168#0" expanded="true" />
-            <element signature="e#37171#37176#0" expanded="true" />
-            <element signature="n#佳能_80D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#43502#43507#0" expanded="true" />
-            <element signature="e#43510#43515#0" expanded="true" />
-            <element signature="n#佳能_70D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#54616#54621#0" expanded="true" />
-            <element signature="e#54624#54629#0" expanded="true" />
-            <element signature="n#佳能_G9_X_Mark_II#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#57899#57904#0" expanded="true" />
-            <element signature="e#57907#57912#0" expanded="true" />
-            <element signature="n#佳能_60D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#68241#68246#0" expanded="true" />
-            <element signature="e#68249#68254#0" expanded="true" />
-            <element signature="n#佳能_700D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#76914#76919#0" expanded="true" />
-            <element signature="e#76922#76927#0" expanded="true" />
-            <element signature="n#佳能_EF_24-70mm_f-2.8L_II_USM#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#77922#77927#0" expanded="true" />
-            <element signature="e#77930#77935#0" expanded="true" />
-            <element signature="n#佳能_EF_70-200mm_f-4L_IS_USM-小小白IS-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#79593#79598#0" expanded="true" />
-            <element signature="e#79601#79606#0" expanded="true" />
-            <element signature="n#佳能_600D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#88995#89000#0" expanded="true" />
-            <element signature="e#89003#89008#0" expanded="true" />
-            <element signature="n#佳能_800D套机-18-55mm_IS_STM-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#94166#94171#0" expanded="true" />
-            <element signature="e#94174#94179#0" expanded="true" />
-            <element signature="n#佳能_EF_50mm_f-1.8_STM#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#95148#95153#0" expanded="true" />
-            <element signature="e#95156#95161#0" expanded="true" />
-            <element signature="n#佳能_EOS_77D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#100225#100230#0" expanded="true" />
-            <element signature="e#100233#100238#0" expanded="true" />
-            <element signature="n#佳能_7D_Mark_II-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#107386#107391#0" expanded="true" />
-            <element signature="e#107394#107399#0" expanded="true" />
-            <element signature="n#佳能_EF_70-200mm_f-2.8L_IS_II_USM#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#108983#108988#0" expanded="true" />
-            <element signature="e#108991#108996#0" expanded="true" />
-            <element signature="n#佳能_G7_X_Mark_II#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#112833#112838#0" expanded="true" />
-            <element signature="e#112841#112846#0" expanded="true" />
-            <element signature="n#佳能_EOS-1D_X_Mark_II-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#119003#119008#0" expanded="true" />
-            <element signature="e#119011#119016#0" expanded="true" />
-            <element signature="n#佳能_EOS_M5-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#124415#124420#0" expanded="true" />
-            <element signature="e#124423#124428#0" expanded="true" />
-            <element signature="n#佳能_EOS_M6套机-15-45mm_IS_STM-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#128976#128981#0" expanded="true" />
-            <element signature="e#128984#128989#0" expanded="true" />
-            <element signature="n#佳能_80D套机-EF-S_18-135mm_IS_USM-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#135639#135644#0" expanded="true" />
-            <element signature="e#135647#135652#0" expanded="true" />
-            <element signature="n#佳能_750D-单机-#0;n#canon#0;n#!!top" expanded="false" />
-            <element signature="e#141722#141727#0" expanded="true" />
-            <element signature="e#141730#141735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/folder/AMDCPU.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#394694#394699#0" expanded="true" />
-            <element signature="e#394702#394707#0" expanded="true" />
-            <element signature="e#397800#397805#0" expanded="true" />
-            <element signature="e#397808#397813#0" expanded="true" />
-            <element signature="e#399728#399733#0" expanded="true" />
-            <element signature="e#399736#399741#0" expanded="true" />
-            <element signature="e#402319#402324#0" expanded="true" />
-            <element signature="e#402327#402332#0" expanded="true" />
-            <element signature="e#405403#405408#0" expanded="true" />
-            <element signature="e#405411#405416#0" expanded="true" />
-            <element signature="e#407629#407634#0" expanded="true" />
-            <element signature="e#407637#407642#0" expanded="true" />
-            <element signature="e#410745#410750#0" expanded="true" />
-            <element signature="e#410753#410758#0" expanded="true" />
-            <element signature="e#413858#413863#0" expanded="true" />
-            <element signature="e#413866#413871#0" expanded="true" />
-            <element signature="e#416209#416214#0" expanded="true" />
-            <element signature="e#416217#416222#0" expanded="true" />
-            <element signature="e#418625#418630#0" expanded="true" />
-            <element signature="e#418633#418638#0" expanded="true" />
-            <element signature="e#421655#421660#0" expanded="true" />
-            <element signature="e#421663#421668#0" expanded="true" />
-            <element signature="e#422642#422647#0" expanded="true" />
-            <element signature="e#422650#422655#0" expanded="true" />
-            <element signature="e#425814#425819#0" expanded="true" />
-            <element signature="e#425822#425827#0" expanded="true" />
-            <element signature="e#428387#428392#0" expanded="true" />
-            <element signature="e#428395#428400#0" expanded="true" />
-            <element signature="e#431551#431556#0" expanded="true" />
-            <element signature="e#431559#431564#0" expanded="true" />
-            <element signature="e#434691#434696#0" expanded="true" />
-            <element signature="e#434699#434704#0" expanded="true" />
-            <element signature="e#437662#437667#0" expanded="true" />
-            <element signature="e#437670#437675#0" expanded="true" />
-            <element signature="e#440353#440358#0" expanded="true" />
-            <element signature="e#440361#440366#0" expanded="true" />
-            <element signature="e#442808#442813#0" expanded="true" />
-            <element signature="e#442816#442821#0" expanded="true" />
-            <element signature="e#443797#443802#0" expanded="true" />
-            <element signature="e#443805#443810#0" expanded="true" />
-            <element signature="e#449371#449376#0" expanded="true" />
-            <element signature="e#449379#449384#0" expanded="true" />
-            <element signature="e#451134#451139#0" expanded="true" />
-            <element signature="e#451142#451147#0" expanded="true" />
-            <element signature="e#454070#454075#0" expanded="true" />
-            <element signature="e#454078#454083#0" expanded="true" />
-            <element signature="e#457117#457122#0" expanded="true" />
-            <element signature="e#457125#457130#0" expanded="true" />
-            <element signature="e#460289#460294#0" expanded="true" />
-            <element signature="e#460297#460302#0" expanded="true" />
-            <element signature="e#463037#463042#0" expanded="true" />
-            <element signature="e#463045#463050#0" expanded="true" />
-            <element signature="e#465529#465534#0" expanded="true" />
-            <element signature="e#465537#465542#0" expanded="true" />
-            <element signature="e#468058#468063#0" expanded="true" />
-            <element signature="e#468066#468071#0" expanded="true" />
-            <element signature="e#473335#473340#0" expanded="true" />
-            <element signature="e#473343#473348#0" expanded="true" />
-            <element signature="e#475858#475863#0" expanded="true" />
-            <element signature="e#475866#475871#0" expanded="true" />
-            <element signature="e#480623#480628#0" expanded="true" />
-            <element signature="e#480631#480636#0" expanded="true" />
-            <element signature="e#483246#483251#0" expanded="true" />
-            <element signature="e#483254#483259#0" expanded="true" />
-            <element signature="e#484875#484880#0" expanded="true" />
-            <element signature="e#484883#484888#0" expanded="true" />
-            <element signature="e#487280#487285#0" expanded="true" />
-            <element signature="e#487288#487293#0" expanded="true" />
-            <element signature="e#492233#492238#0" expanded="true" />
-            <element signature="e#492241#492246#0" expanded="true" />
-            <element signature="e#497969#497974#0" expanded="true" />
-            <element signature="e#497977#497982#0" expanded="true" />
-            <element signature="e#504235#504240#0" expanded="true" />
-            <element signature="e#504243#504248#0" expanded="true" />
-            <element signature="e#507544#507549#0" expanded="true" />
-            <element signature="e#507552#507557#0" expanded="true" />
-            <element signature="e#509440#509445#0" expanded="true" />
-            <element signature="e#509448#509453#0" expanded="true" />
-            <element signature="e#511419#511424#0" expanded="true" />
-            <element signature="e#511427#511432#0" expanded="true" />
-            <element signature="e#519583#519588#0" expanded="true" />
-            <element signature="e#519591#519596#0" expanded="true" />
-            <element signature="e#523298#523303#0" expanded="true" />
-            <element signature="e#523306#523311#0" expanded="true" />
-            <element signature="e#525456#525461#0" expanded="true" />
-            <element signature="e#525464#525469#0" expanded="true" />
-            <element signature="e#531042#531047#0" expanded="true" />
-            <element signature="e#531050#531055#0" expanded="true" />
-            <element signature="e#533090#533095#0" expanded="true" />
-            <element signature="e#533098#533103#0" expanded="true" />
-            <element signature="e#550445#550450#0" expanded="true" />
-            <element signature="e#550536#550541#0" expanded="true" />
-            <element signature="e#550548#550553#0" expanded="true" />
-            <element signature="e#550556#550561#0" expanded="true" />
-            <element signature="e#550564#550569#0" expanded="true" />
-            <element signature="e#550574#550579#0" expanded="true" />
-            <element signature="e#557845#557850#0" expanded="true" />
-            <element signature="e#557853#557858#0" expanded="true" />
-            <element signature="e#559785#559790#0" expanded="true" />
-            <element signature="e#559793#559798#0" expanded="true" />
-            <element signature="e#561946#561951#0" expanded="true" />
-            <element signature="e#561954#561959#0" expanded="true" />
-            <element signature="e#571551#571556#0" expanded="true" />
-            <element signature="e#571559#571564#0" expanded="true" />
-            <element signature="e#572638#572643#0" expanded="true" />
-            <element signature="e#575568#575573#0" expanded="true" />
-            <element signature="e#575576#575581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zol/GetContent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zol/GetURL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="264">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>

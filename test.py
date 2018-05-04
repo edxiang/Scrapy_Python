@@ -15,7 +15,10 @@ headers = {
 }
 
 index = 1
-while index == 1:
-    p = Proxy.getProxies()
-    r = requests.get("https://www.douban.com/group/explore/tech?start=360", headers=headers, proxies=p)
-    print(r.content.decode('utf-8'))
+# while index == 1:
+#     p = Proxy.getProxies()
+#     r = requests.get("https://www.douban.com/group/explore/tech?start=360", headers=headers, proxies=p)
+#     print(r.content.decode('utf-8'))
+
+r = requests.get("https://ahri8.com/dnew.php?category_id=3")
+print(r.content.decode('utf-8'))
