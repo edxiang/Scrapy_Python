@@ -6,7 +6,7 @@ import time
 driver = webdriver.Firefox()
 driver.get('https:www.zhihu.com')
 time.sleep(20)
-js = "var q=document.documentElement.scrollTop=10000"
+js = "var q=document.documentElement.scrollTop=100;"
 driver.execute_script(js)
 driver.execute_script(js)
 driver.execute_script(js)

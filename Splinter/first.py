@@ -5,7 +5,7 @@ import time
 # executable_path = {'executable_path': r'D:\webDriver\chromedriver.exe'}
 # b = Browser('chrome', **executable_path)
 b = Browser('firefox')
-b.visit('https:www.zhihu.com')
+b.visit('https://www.manhuaren.com/m76571/')
 time.sleep(30)
 print(b.html)
 # cs = b.cookies.all()
